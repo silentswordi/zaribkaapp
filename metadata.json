@@ -1,0 +1,7 @@
+{
+  "name": "موتور جستجوی کدهای اورژانس و ضرایب K",
+  "description": "سامانه جستجو و طبقه‌بندی سریع کدهای خدمات سلامت، ضرایب K و ارزش نسبی در بخش اورژانس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
